@@ -2,7 +2,22 @@
 
 **Objetivo:** obtener evidencia real sobre las hipótesis H1 a H5 antes de
 escribir código.
-**Última actualización:** 2026-09-17
+**Última actualización:** 2026-09-24
+
+---
+
+## Método de validación
+
+La validación de hipótesis se realiza en tres etapas:
+
+1. **Formulario de filtro (Typeform).** 8 preguntas sobre hábitos al regalar y
+   recibir regalos, sin mencionar la app. Se envía al círculo cercano: amigos,
+   compañeros y ex compañeros.
+2. **Conversaciones individuales.** Con quienes marquen en el formulario que
+   aceptan conversar. Se siguen las reglas y bloques de preguntas de este
+   documento.
+3. **Grupo de discusión presencial.** Con amigos, siguiendo la
+   [guía del grupo de discusión](guia-grupo-discusion.md).
 
 ---
 
@@ -27,15 +42,36 @@ es una referencia real y recomendable si quieres profundizar.
 
 ## 2. A quién entrevistar
 
-Entre 6 y 10 personas, cubriendo ambos lados:
+Los participantes de esta primera ronda son del **círculo cercano**: amigos,
+compañeros y ex compañeros que acepten conversar tras completar el formulario de
+filtro.
+
+### Limitación conocida
+
+Entrevistar al círculo cercano introduce un **sesgo de complacencia**: las
+personas tienden a validar por afecto y a decir lo que creen que el investigador
+quiere escuchar. Se mitiga de dos formas:
+
+- **Preguntas sobre comportamiento pasado.** En lugar de "¿usarías esta app?",
+  se pregunta "¿qué hiciste la última vez?". Los hechos ya ocurridos no se
+  pueden adornar tan fácilmente.
+- **Crítica pedida de forma explícita.** Preguntar "¿por qué creen que esto
+  fracasaría?" da permiso para ser honesto.
+
+Estas técnicas reducen el sesgo, pero no lo eliminan. Los resultados se
+registran como **evidencia débil** y se contrastan entre las tres etapas del
+método de validación.
+
+### Mejora para una segunda ronda
+
+En una ronda posterior conviene ampliar la muestra con los siguientes criterios:
 
 - 3 a 5 personas que hayan regalado algo en los últimos 3 meses.
 - 3 a 5 personas que hayan cumplido años o casado recientemente.
 - Idealmente al menos 2 personas de más de 40 años, para detectar si el
   comportamiento cambia por edad.
-
-Evita entrevistar solo a amigos cercanos o compañeros de informática: tienden a
-validar por afecto y por sesgo técnico.
+- Evitar entrevistar solo a amigos cercanos o compañeros de informática: tienden
+  a validar por afecto y por sesgo técnico.
 
 Duración sugerida: 15 a 25 minutos. Una entrevista breve y honesta vale más que
 una larga y complaciente.

@@ -6,7 +6,7 @@ Vive en el repositorio y se versiona con el código.
 ## Estado actual
 
 **Fase:** Descubrimiento (definición del problema y validación de hipótesis)
-**Última actualización:** 2026-09-17
+**Última actualización:** 2026-09-24
 
 ## Estructura
 
